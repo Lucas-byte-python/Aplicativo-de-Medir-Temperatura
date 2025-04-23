@@ -1,27 +1,25 @@
-# Aplicativo de Medir Temperatura: é um aplicativo de previsão do tempo simples e funcional, feito com HTML, CSS e JavaScript, utilizando a API da OpenWeatherMap para obter dados meteorológicos em tempo real. Aqui vai um resumo por partes:
+# Temperature Measurement App:
+## A simple and functional weather forecast application built with HTML, CSS, and JavaScript, using the OpenWeatherMap API to fetch real-time weather data. Here's a breakdown of its features:
 
-## 🔧 Tecnologias Utilizadas
-### - HTML5: Estrutura básica da página.
-### - CSS3: Estilização visual com foco em um design moderno, minimalista e limpo.
-### - JavaScript (puro): Responsável por buscar os dados da API, tratar as respostas e atualizar a interface.
+# 🔧 Technologies Used
+### - HTML5: Basic structure of the webpage.
+### - CSS3: Visual styling with a focus on a modern, minimalist, and clean design.
+### - JavaScript (vanilla): Handles fetching data from the API, processing the response, and updating the interface.
+# External API:
+## OpenWeatherMap — used to obtain temperature, weather conditions, humidity, and wind speed.
 
-## API externa: OpenWeatherMap — usada para obter temperatura, clima, umidade e velocidade do vento.
-
-## ⚙️ Como Funciona
-### - O usuário digita o nome de uma cidade no campo de busca.
-### - Ao clicar no botão de pesquisa (ou pressionar Enter, se implementado), o JavaScript envia uma requisição para a API do OpenWeatherMap.
-### - A resposta da API retorna os dados do clima atual da cidade pesquisada.
-
-## O app:
-
-### + Atualiza o ícone do clima (sol, chuva, nuvens, etc).
-### + Exibe a temperatura, descrição do clima, umidade e velocidade do vento.
-### + Mostra uma tela de erro caso a cidade não seja encontrada.
-
-## 🎨 Design e Experiência
-### + Interface compacta e centralizada, ideal para uso em dispositivos móveis.
-### + Animações suaves com a classe fadeIn para transições mais agradáveis.
-### + Ícones do clima usando imagens locais e ícones gerais via Font Awesome.
+# ⚙️ How It Works
+### - The user types the name of a city in the search field.
+### - By clicking the search button (or pressing Enter, if implemented), JavaScript sends a request to the OpenWeatherMap API.
+### - The API responds with the current weather data for the searched city.
+# The App:
+### + Updates the weather icon (sun, rain, clouds, etc).
+### + Displays temperature, weather description, humidity, and wind speed.
+### + Shows an error screen if the city is not found.
+# 🎨 Design and User Experience
+### + A compact, centered interface, ideal for mobile use.
+### + Smooth animations using the fadeIn class for better transitions.
+### + Weather icons using local images and general icons from Font Awesome.
 
 <p align = "center">
   <img src="img1.png" width="auto"><br>
