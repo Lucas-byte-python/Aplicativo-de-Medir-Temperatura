@@ -24,6 +24,6 @@
 ### + Ícones do clima usando imagens locais e ícones gerais via Font Awesome.
 
 <p align = "center">
-  <img src="img1.png" width="auto">
+  <img src="img1.png" width="auto"><br>
   <img src="img2.png" width="auto">
 </p>
